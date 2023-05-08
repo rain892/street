@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lampost
+* source:	https://sketchfab.com/3d-models/lampost-ca15a1c3fb6740b4aaa44a848ef7cc94
+* author:	Ahlikx (https://sketchfab.com/Ahlikx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lampost" (https://sketchfab.com/3d-models/lampost-ca15a1c3fb6740b4aaa44a848ef7cc94) by Ahlikx (https://sketchfab.com/Ahlikx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
